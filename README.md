@@ -1,1 +1,1 @@
-# gama-no-javascript-basico
+# javascript-basico
